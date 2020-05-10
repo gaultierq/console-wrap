@@ -1,5 +1,8 @@
 {
   "name": "console-wrap",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "version": "1.0.0",
   "description": "quick wrapper for console override",
   "main": "index.js",
