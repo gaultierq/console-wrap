@@ -1,0 +1,24 @@
+{
+  "name": "console-wrap",
+  "version": "1.0.0",
+  "description": "quick wrapper for console override",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaultierq/console-wrap.git"
+  },
+  "keywords": [
+    "console",
+    "node.js"
+  ],
+  "author": "Quentin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaultierq/console-wrap/issues"
+  },
+  "homepage": "https://github.com/gaultierq/console-wrap#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "lodash": "^4.17.15"
+  }
+}
